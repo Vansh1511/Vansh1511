@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vansh1511
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Analytics,Machine Learing
+- 🌱 I’m currently learning Data Analytics,Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vanshsrivastava59@gmail.com
 
